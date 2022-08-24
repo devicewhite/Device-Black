@@ -1,4 +1,4 @@
-Opa (😲)! seja bem-vindo ao meu quarto (😁)!
+Opa (😲)! seja bem-vindo ao meu quarto (😁)!<br />
 Por favor, ignore essa bagunça (😅)
 
 <a href="https://discord.gg/P5RUHJyneq">
