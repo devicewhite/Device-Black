@@ -1,3 +1,7 @@
+# Biblia RP
+O que � uma biblia?<br>
+R: � um volume ou conjunto de volumes que cont�m textos.
+
 <b>AMOR A VIDA</b><br>
 E um dos conceitos mais importantes no roleplay. Voce precisa sempre jogar dando amor a sua vida, nao andando em zonas perigosas (de gangsters), dar uma vida saudavel ao seu personagem (se alimentar bem), nao realizar acoes que possam resultar em morte.
 ```
