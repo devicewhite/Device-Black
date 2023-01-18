@@ -1,9 +1,9 @@
 <b>AMOR A VIDA</b><br>
 E um dos conceitos mais importantes no roleplay. Voce precisa sempre jogar dando amor a sua vida, nao andando em zonas perigosas (de gangsters), dar uma vida saudavel ao seu personagem (se alimentar bem), nao realizar acoes que possam resultar em morte.
 ```
-Voce nao podera lembrar de nada apos desmaiar ou morrer.<br>
-Nao podera se matar para fugir de prisao ou assalto.<br>
-Saber quando se render.<br>
+Voce nao podera lembrar de nada apos desmaiar ou morrer.
+Nao podera se matar para fugir de prisao ou assalto.
+Saber quando se render.
 ```
 <br>
 <b>OCC (FORA DO PERSONAGEM)</b><br>
