@@ -1,8 +1,8 @@
 <b>AMOR A VIDA</b><br>
 E um dos conceitos mais importantes no roleplay. Voce precisa sempre jogar dando amor a sua vida, nao andando em zonas perigosas (de gangsters), dar uma vida saudavel ao seu personagem (se alimentar bem), nao realizar acoes que possam resultar em morte.<br>
- > Voce nao podera lembrar de nada apos desmaiar ou morrer.<br>
- > Nao podera se matar para fugir de prisao ou assalto.<br>
- > Saber quando se render.<br>
+> Voce nao podera lembrar de nada apos desmaiar ou morrer.<br>
+> Nao podera se matar para fugir de prisao ou assalto.<br>
+> Saber quando se render.<br>
 <br>
 <b>OCC (FORA DO PERSONAGEM)</b><br>
 O seu personagem vive em um mundo separado do nosso. O mundo real E chamado de OOC.<br>
@@ -51,6 +51,6 @@ Exemplo: Sair para nao ser preso, abordado ou assaltado.<br>
 E quando voce anda pulando no jogo para ter alguma vantagem (ser mais rapido ou fugir).<br>
 <br>
 <b>SEJA RP!</b><br>
- > Interprete seu personagem da melhor forma possivel.<br>
- > Nao cometa atos ANT-RP .<br>
- > Nao estrague a diversao dos outros jogadores.
+> Interprete seu personagem da melhor forma possivel.<br>
+> Nao cometa atos ANT-RP .<br>
+> Nao estrague a diversao dos outros jogadores.
