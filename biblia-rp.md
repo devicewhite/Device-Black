@@ -51,6 +51,6 @@ Exemplo: Sair para nao ser preso, abordado ou assaltado.<br>
 E quando voce anda pulando no jogo para ter alguma vantagem (ser mais rapido ou fugir).<br>
 <br>
 <b>SEJA RP!</b><br>
-> Interprete seu personagem da melhor forma possivel.<br>
+>>> Interprete seu personagem da melhor forma possivel.<br>
 > Nao cometa atos ANT-RP .<br>
 > Nao estrague a diversao dos outros jogadores.
